@@ -1,0 +1,19 @@
+{
+  "name": "express-vomit",
+  "version": "1.0.0",
+  "description": "An example how to use express and vomit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "vomit",
+    "template"
+  ],
+  "author": "Zoltan Mihalyi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.1"
+  }
+}
